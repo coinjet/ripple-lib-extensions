@@ -1,5 +1,5 @@
-ripple-lib-extensions
+divvy-lib-extensions
 =====================
 
-A collection of packages that extend the functionality of ripple-lib.
+A collection of packages that extend the functionality of divvy-lib.
 
